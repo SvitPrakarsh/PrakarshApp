@@ -1,8 +1,8 @@
 <resources>
 
     <string name="app_name">Prakarsh</string>
-    <string name="event_name">Prakarsh XIII</string>
-    <string name="timer_finished">Welcome to Prakarsh 2K18!</string>
+    <string name="event_name">Prakarsh XIV</string>
+    <string name="timer_finished">Welcome to Prakarsh 2K19!</string>
 
     <string name="navigation_events">Events</string>
     <string name="navigation_newsfeed">Newsfeed</string>
