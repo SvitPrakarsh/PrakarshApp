@@ -14,8 +14,7 @@ import kotlinx.android.synthetic.main.item_newsfeed_post.view.*
 
 
 /**
- * Created by Mustanseer on 16-01-2019.
- * Guided By The LEGEND ##NJRN##
+ * Created by itsarjunsinh on 1/11/18.
  */
 
 class NewsfeedFragment : Fragment() {
